@@ -1,0 +1,23 @@
+Name: Taha Siddiqui
+
+Role: Full Stack Developer and AI Enthusiast
+
+Skills:
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- JWT Authentication
+- REST APIs
+- Generative AI (RAG, LangChain basics)
+
+Projects:
+
+1. EduSaver – Student Book Resale Platform
+A MERN stack marketplace for students to buy and sell academic books.
+Features include authentication, role-based access, and scalable APIs.
+
+2. HealthSync – Healthcare Website & Admin System
+Built during internship. Includes public website and admin dashboard.
+Allows non-technical users to manage blogs and content.
+
+3. Campus Food Delivery Platform
+Multi-role system with users, vendors, and admin.
+Handles full order lifecycle and backend logic.
