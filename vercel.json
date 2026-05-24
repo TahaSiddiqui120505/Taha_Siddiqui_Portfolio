@@ -1,0 +1,10 @@
+{
+  "buildCommand": "cd Taha-Siddiqui-Portfolio && npm install && npm run build",
+  "outputDirectory": "Taha-Siddiqui-Portfolio/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
