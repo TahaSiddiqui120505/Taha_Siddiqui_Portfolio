@@ -22,9 +22,12 @@
     "chroma-js": "^3.2.0",
     "chromadb": "^3.4.0",
     "cors": "^2.8.6",
-    "dotenv": "^17.3.1",
+    "dotenv": "^16.4.5",
     "express": "^5.2.1",
     "langchain": "^1.2.37",
     "vectra": "^0.12.3"
+  },
+  "overrides": {
+    "dotenv": "^16.4.5"
   }
 }
